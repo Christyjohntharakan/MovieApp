@@ -19,7 +19,7 @@ A React Native movie browsing application built for the GARS Technology internsh
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/MovieApp.git
+   git clone https://github.com/Christyjohntharakan/MovieApp.git
    cd MovieApp
 
 2. Install dependencies:
