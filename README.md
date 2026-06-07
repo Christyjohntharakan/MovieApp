@@ -39,4 +39,4 @@ A React Native movie browsing application built for the GARS Technology internsh
 | EXPO_PUBLIC_TMDB_API_KEY | Your TMDB v3 API key |
 
 ## Screen Recording
-[Add your GIF/video here after recording on your device]
+![MovieApp Demo](assets/movieapp.gif)
