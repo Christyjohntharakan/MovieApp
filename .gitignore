@@ -8,6 +8,8 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+grep -v 'echo ".env"' .gitignore > .gitignore.tmp && mv .gitignore.tmp .gitignore
+printf '.env\n' >> .gitignore
 
 # Native
 .kotlin/
@@ -39,3 +41,4 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+

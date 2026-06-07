@@ -1,3 +1,4 @@
+^Xcat > app.json << 'EOF'
 {
   "expo": {
     "name": "MovieApp",
@@ -21,3 +22,4 @@
     }
   }
 }
+EOF
